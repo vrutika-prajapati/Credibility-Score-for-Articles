@@ -1,0 +1,7 @@
+tensorflow
+keras
+huggingface_hub
+numpy
+pandas
+matplotlib
+requests
